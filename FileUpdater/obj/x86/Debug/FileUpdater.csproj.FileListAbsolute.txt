@@ -1,0 +1,13 @@
+D:\FileUpdater\FileUpdater\bin\Debug\FileUpdater.exe
+D:\FileUpdater\FileUpdater\bin\Debug\FileUpdater.pdb
+D:\FileUpdater\FileUpdater\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FileUpdater\FileUpdater\obj\x86\Debug\FileUpdater.Properties.Resources.resources
+D:\FileUpdater\FileUpdater\obj\x86\Debug\FileUpdater.templateEdit.resources
+D:\FileUpdater\FileUpdater\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FileUpdater\FileUpdater\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FileUpdater\FileUpdater\obj\x86\Debug\FileUpdater.exe
+D:\FileUpdater\FileUpdater\obj\x86\Debug\FileUpdater.pdb
+D:\FileUpdater\FileUpdater\obj\x86\Debug\FileUpdater.MainFrm.resources
+D:\FileUpdater\FileUpdater\bin\Debug\FileUpdater.exe.config
+D:\FileUpdater\FileUpdater\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\FileUpdater\FileUpdater\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog

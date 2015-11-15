@@ -1,0 +1,2 @@
+D:\Работы\FileUpdater\FileUpdater\bin\Release\FileUpdater.exe.config
+D:\Программы\FileUpdater\Программный код\FileUpdater\FileUpdater\bin\Release\FileUpdater.exe.config
